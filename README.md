@@ -1,4 +1,4 @@
-# 🌍 Travel List
+# 🌍 Bag Packed
 
 A simple and interactive application to **plan items to be packed** for your trips and **mark them done once packed**. This project is built using **JavaScript**, **CSS**, and **HTML**.
 
@@ -19,7 +19,7 @@ A simple and interactive application to **plan items to be packed** for your tri
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/sunaina47/travel-list.git
+   git clone https://github.com/sunaina47/bag-packed.git
 
 2. **Navigate to the project directory**:
    ```bash
